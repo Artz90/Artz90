@@ -11,15 +11,7 @@
 
 ## 📬 Connect with me
 
-<a href="www.linkedin.com/in/andre-tomaz">
-  <img align="left" alt="Andre Tomaz's LinkedIn" width="44px" src="https://github.com/Artz90/Artz90/blob/main/linkedin_logo.png" />
-</a>
-<a href="https://www.kaggle.com/andretomaz">
-  <img align="left" alt="Xavier Looyens's Kaggle" width="44px" src="https://github.com/Artz90/Artz90/blob/main/kaggle_logo.png" />
-</a>
-
-<br />
-<br />
+<a href="https://linkedin.com/in//andre-tomaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonis-melis" height="30" width="40" /></a>
 
 ## 🛠 Languages and Tools
 

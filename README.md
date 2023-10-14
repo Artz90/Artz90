@@ -2,9 +2,9 @@
 
 ## About me
 
-- 🎓I'm a graduate the LeWagon DataScience part-time bootcamp in London, UK. I started in April and graduated in September 2023.
+- 🎓I'm a graduate of the LeWagon DataScience bootcamp in London, UK. I started in April and graduated in September 2023.
 
-- 👨🏻‍💻I work as a performance marketing specialist at Precis Digital, a Swedish digital marketing agency.
+- 👨🏻‍💻 Currently working as a counter fraud specialist in the health insurance industry.
 
 - 📫 How to reach me: andrereinotomaz@hotmail.com
 
